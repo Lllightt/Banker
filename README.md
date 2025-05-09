@@ -7,3 +7,6 @@ How to play
   3. youbut edu
   4. make money
   5. get lvl
+IF YOU DONT HAVE PYTHON!
+JUST GO TO PYTHON DEBBUGER "GDB"
+have fun!
