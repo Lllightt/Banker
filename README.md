@@ -1,12 +1,10 @@
 # Banker
-Banker a Project i make at school
+VER 4.0
+HASLO 1646
+LOGIN Fajne
 
-How to play
-  1. you login
-  2. Login is Fajne Password is 1646
-  3. youbut edu
-  4. make money
-  5. get lvl
-IF YOU DONT HAVE PYTHON!
-JUST GO TO PYTHON DEBBUGER "GDB"
-have fun!
+PYGAME POTRZEBUJESZ
+JAK NIE CHCESZ OBIERAC PYGAME
+           |
+PLIK .EXE \|/
+    https://www.mediafire.com/file/om08cw6ixt2s7vb/Banker_v4.0_Release.zip/file
